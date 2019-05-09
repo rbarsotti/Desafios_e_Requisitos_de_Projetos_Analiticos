@@ -3,18 +3,18 @@
 ### Introduction to Azure & Apache Spark
 
 
-####Watson Studio:
+#### Watson Studio:
 
 
 https://dataplatform.cloud.ibm.com/
 
-####Trabalho Final:
+#### Trabalho Final:
 
 
 https://1drv.ms/u/s!AtNYgNGIcM-PgXlMf2FBzj5_9oUb
 
 
-####Utilizando o Spark na sua máquina local:
+#### Utilizando o Spark na sua máquina local:
 
 
 ```R
