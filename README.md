@@ -14,6 +14,12 @@ https://dataplatform.cloud.ibm.com/
 https://1drv.ms/u/s!AtNYgNGIcM-PgXlMf2FBzj5_9oUb
 
 
+#### Apache Spark:
+
+
+https://spark.apache.org/downloads.html
+
+
 #### Utilizando o Spark na sua máquina local:
 
 
