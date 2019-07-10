@@ -23,6 +23,13 @@ https://spark.apache.org/downloads.html
 #### Utilizando o Spark na sua máquina local:
 
 
+
+```R
+# Instalando para Jupyter Notebook
+install.packages("devtools")
+install.packages('IRkernel')
+IRkernel::installspec()
+
 ```R
 Sys.setenv(SPARK_HOME="C:/Users/B31060.ACAD/Desktop/spark-2.4.2-bin-hadoop2.7")
 ## Set the library path
